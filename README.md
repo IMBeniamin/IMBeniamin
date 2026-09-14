@@ -26,5 +26,5 @@ While my enterprise work is proprietary, my public repositories reflect my drive
 - **[Blinky](https://github.com/IMBeniamin/Blinky):** Custom game engine built in C++, tracking my personal progress and unique feature additions based on The Cherno's game engine tutorial series **C++**.
 
 ### 📫 Let's Connect
-- **LinkedIn:** [www.linkedin.com/in/imben](www.linkedin.com/in/imben)
+- **LinkedIn:** [www.linkedin.com/in/imben](https://linkedin.com/in/imben)
 - **Portfolio / Website:** [imben.it](https://imben.it)
