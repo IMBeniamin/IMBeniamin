@@ -1,6 +1,6 @@
 # Hi there, I'm Beniamin Iorga 👋
 
-### Full-Stack Software Engineer & Systems Architect
+### Software Engineer — Backend & Cloud Systems
 
 I am a software engineer specializing in the end-to-end architecture of complex enterprise applications, with a strong foundation in deep system mechanics and advanced networking. I believe in a pragmatic, research-driven approach to engineering—cutting through rigid dogmas to deploy robust, scalable solutions. 
 
