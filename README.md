@@ -12,28 +12,19 @@ I build cloud-native enterprise software, Kubernetes/GitOps delivery platforms, 
 - **Home Lab & Systems Research:** Hybrid Oracle Cloud + on-prem estate over WireGuard fully as code, Grafana/Loki/Tempo/Prometheus observability, a self-built automated SOC (CrowdSec + Cloudflare), and reverse engineering for interoperability & privacy analysis.
 
 ### Core Stack
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Flux](https://img.shields.io/badge/Flux-5468FF?style=flat-square&logo=flux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform%20%2F%20OpenTofu-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| Area | Technologies |
+| --- | --- |
+| **Platform & GitOps** | Kubernetes (k3s / AKS), Helm, Flux, Docker, Terraform, OpenTofu, Ansible, Packer, GitHub Actions, Linux |
+| **Cloud & Security** | Azure, AWS, Oracle Cloud, Cloudflare, cosign / SBOM / provenance, OIDC, Keycloak, Entra ID, Authentik, 1Password, CrowdSec |
+| **Backend & Data** | C# / .NET 10, ASP.NET Core, EF Core, Python (FastAPI), TypeScript, React, PostgreSQL (pgvector), SQL Server, RabbitMQ, Redis |
+| **AI & Observability** | Multi-agent harnesses (Claude Code, Codex, pi), MCP, CLIP/DINOv2 embeddings, llama.cpp, OpenTelemetry, Grafana, Prometheus, Loki, Tempo |
 
-### Public Projects & Open Source
-Most of my production and home-lab repositories are private; here are a few public ones:
+### Selected Systems & Open Source
+- **D&D Evolve** *(enterprise)* — Next-generation multi-CAD PDM/PLM platform (.NET 10, PostgreSQL, RabbitMQ, React, Autodesk Inventor). Owning signed Helm releases, per-customer Flux GitOps fleets on Kubernetes, Terraform on Azure, and supply-chain security (cosign, SBOM, provenance), alongside core BOM and ECR/ECO modules.
+- **Home Lab & Observatory** *(private IaC / SRE)* — Hybrid Oracle Cloud + on-prem estate over WireGuard managed entirely as code (OpenTofu, Ansible, GitOps, Authentik SSO, 1Password), paired with Grafana/Prometheus/Loki/Tempo incident correlation and a self-built automated SOC (CrowdSec + Cloudflare).
 - **[NoteCalc](https://github.com/IMBeniamin/NoteCalc)** ([live](https://notepad.imben.co)) — Collaborative real-time Python notepad calculator built with Pyodide, React, Supabase, and Cloudflare Workers.
-- **[Immich](https://github.com/immich-app/immich)** — Upstream open-source contributor (2 merged PRs).
-- **[lightdb_csv](https://github.com/IMBeniamin/lightdb_csv)** — Modular CSV-backed database implementation written in C.
-- **[Blinky](https://github.com/IMBeniamin/Blinky)** — Custom C++ game engine exploring rendering and engine architecture (OpenGL/Vulkan).
+- **Open-Source Contributions** — Merged upstream PRs in [Immich](https://github.com/immich-app/immich/pulls?q=is%3Apr+author%3AIMBeniamin+is%3Amerged) (2 PRs) and [pi-cowboy](https://github.com/electric-dragon-80000v/pi-cowboy/pull/50) (multi-agent orchestrator).
 
 ### Connect
-- **Website:** [imben.co](https://imben.co)
+- **Website:** [imben.co](https://imben.co) — portfolio & technical write-ups
 - **LinkedIn:** [linkedin.com/in/imben](https://www.linkedin.com/in/imben/)
