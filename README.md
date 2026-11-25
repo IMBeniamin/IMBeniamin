@@ -9,6 +9,7 @@ I build cloud-native enterprise software, Kubernetes/GitOps delivery platforms, 
 - **Supply-Chain & Identity Security:** cosign image signing, SBOM + provenance, digest pinning, OIDC/SSO (Keycloak, Entra ID, Authentik), and 1Password-backed secret management.
 - **Backend & Domain Systems:** Modular .NET 10 / C# services, PostgreSQL, RabbitMQ, TypeSpec/OpenAPI, Python (FastAPI), and React/TypeScript — with deep PDM/PLM domain experience (BOM, ECR/ECO, CAD integration, legacy migrations).
 - **AI Engineering:** Multi-agent harnesses and orchestration (Claude Code, Codex, pi) with strict hooks and cross-model review; hybrid vector search design (CLIP/DINOv2, pgvector); local LLM serving.
+- **Reference Infrastructure ([hybrid-homelab-iac](https://github.com/IMBeniamin/hybrid-homelab-iac)):** Sanitized OpenTofu, Ansible, Portainer GitOps, WireGuard, Authentik SSO, and 1Password patterns.
 - **Home Lab & Systems Research:** Hybrid Oracle Cloud + on-prem estate over WireGuard fully as code, Grafana/Loki/Tempo/Prometheus observability, a self-built automated SOC (CrowdSec + Cloudflare), and reverse engineering for interoperability & privacy analysis.
 
 ### Core Stack
